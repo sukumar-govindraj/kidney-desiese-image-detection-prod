@@ -26,6 +26,7 @@ A robust, production‑ready deep learning pipeline for classifying kidney disea
 12. [License](#license)
 
 ---
+![image](https://github.com/user-attachments/assets/776f8104-36b2-4e63-a478-4bf60894ad7c)
 
 ## Project Overview
 
